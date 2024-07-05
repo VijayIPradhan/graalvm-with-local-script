@@ -5,6 +5,6 @@ public class Pattern {
 
     }
     public static void pattern(){
-        for
+        System.out.println("***");
     }
 }
